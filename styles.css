@@ -678,7 +678,7 @@ body {
 #projects {
   height: auto;
   width: 100%;
-  background: var(--color-white);
+  background: var(--color-grey);
 
   display: flex;
   flex-direction: column;
@@ -689,7 +689,7 @@ body {
   padding: 1rem;
 
   font-size: 3rem;
-  color: white;
+  color: var(--color-white);
 }
 
 /* .wrapper-projects {
@@ -1081,4 +1081,3 @@ body {
     left: 100%;
   }
 }
-
